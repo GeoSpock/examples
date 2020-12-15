@@ -1,0 +1,47 @@
+latitude,longitude,month_timestamp,message,type,timestamp
+1.3691605944209098,103.90736087919858,2019-08-01 00:00:00.000,(30/8)3:22 Accident on KPE (towards TPE) at Buangkok Drive Exit. Buangkok Drive Exit closed.,Accident,2019-08-30 03:22:00.000
+1.3691605944209098,103.90736087919858,2019-08-01 00:00:00.000,(30/8)5:35 Accident on KPE (towards TPE) at Buangkok Drive Exit. Buangkok Drive Exit closed.,Accident,2019-08-30 05:35:00.000
+1.3257802634663198,103.72859924226003,2019-08-01 00:00:00.000,(30/8)5:42 Accident on AYE (towards MCE) at Jalan Ahmad Ibrahim Entrance.,Accident,2019-08-30 05:42:00.000
+1.4193584448836027,103.80033010576231,2019-08-01 00:00:00.000,(30/8)7:11 Accident on SLE (towards CTE) before Mandai Ave Exit with congestion till Woodlands Ave 2 Exit.,Accident,2019-08-30 07:11:00.000
+1.3264028489015185,103.86097815039058,2019-08-01 00:00:00.000,(30/8)7:35 Accident on CTE (towards AYE) after PIE(Jurong) Exit. Avoid lane 1.,Accident,2019-08-30 07:35:00.000
+1.329916713880087,103.86237363729772,2019-08-01 00:00:00.000,(30/8)7:47 Accident on CTE (towards AYE) after PIE(Jurong) Exit. Avoid lane 1.,Accident,2019-08-30 07:47:00.000
+1.32943609972175,103.84459804779725,2019-08-01 00:00:00.000,(30/8)8:03 Accident on PIE (towards Tuas) at Thomson Rd Exit.,Accident,2019-08-30 08:03:00.000
+1.3361010470362409,103.78266669413803,2019-08-01 00:00:00.000,(30/8)8:14 Accident on Bukit Timah Road (towards Woodlands) after Holland Link. Avoid left lane.,Accident,2019-08-30 08:14:00.000
+1.31769056342704,103.84970680696182,2019-08-01 00:00:00.000,(30/8)8:55 Accident on CTE (towards AYE) after Moulmein Rd Exit. Avoid lane 1.,Accident,2019-08-30 08:55:00.000
+1.3325909527458792,103.81652536364163,2019-08-01 00:00:00.000,(30/8)8:59 Accident on Adam Road (towards Queensway) after MacRitchie viaduct with congestion till Bishan Road. Avoid right lane.,Accident,2019-08-30 08:59:00.000
+1.354884350210186,103.90078828258291,2019-08-01 00:00:00.000,(30/8)9:02 Accident on KPE (towards ECP) after Tampines Rd Exit.,Accident,2019-08-30 09:02:00.000
+1.3321520536351643,103.81624197088777,2019-08-01 00:00:00.000,(30/8)9:05 Accident on Adam Road (towards Queensway) after PIE. Avoid right lane.,Accident,2019-08-30 09:05:00.000
+1.397039823663993,103.85233263362795,2019-08-01 00:00:00.000,(30/8)9:06 Accident on SLE (towards CTE) before TPE Exit with congestion till Lentor Ave Exit. Avoid lane 1.,Accident,2019-08-30 09:06:00.000
+1.3409636180602196,103.73496579368886,2019-08-01 00:00:00.000,(30/8)9:18 Accident on Boon Lay Way (towards Tuas) after Jurong East Central. Avoid right lane.,Accident,2019-08-30 09:18:00.000
+1.3410321866527408,103.73496029177406,2019-08-01 00:00:00.000,(30/8)9:18 Accident on Boon Lay Way (towards City) after Jurong Town Hall Road. Avoid right lane.,Accident,2019-08-30 09:18:00.000
+1.3551610601586317,103.96352599647274,2019-08-01 00:00:00.000,(30/8)9:36 Accident on TPE (towards PIE) at Upper Changi Rd North Exit.,Accident,2019-08-30 09:36:00.000
+1.3478192617626354,103.79314809721751,2019-08-01 00:00:00.000,(30/8)9:36 Accident on BKE (towards Woodlands) after PIE Entrance. Avoid lane 1.,Accident,2019-08-30 09:36:00.000
+1.3344316507085827,103.81185924195903,2019-08-01 00:00:00.000,(30/8)9:39 Accident on PIE (towards Changi Airport) before Lornie Rd. Avoid lane 1.,Accident,2019-08-30 09:39:00.000
+1.388203813442236,103.7747405984344,2019-08-01 00:00:00.000,(30/8)9:46 Accident on BKE (towards PIE) after KJE Exit with congestion till Mandai Rd Exit. Avoid lane 1.,Accident,2019-08-30 09:46:00.000
+1.3654373783083644,103.85999115287225,2019-08-01 00:00:00.000,(30/8)10:02 Accident on CTE (towards AYE) after AMK Ave 5 Exit.,Accident,2019-08-30 10:02:00.000
+1.2834057758245416,103.83604573559889,2019-08-01 00:00:00.000,(30/8)10:29 Accident in CTE Tunnel (towards SLE) after Outram Rd Exit with congestion till AYE Entrance. Avoid lane 2.,Accident,2019-08-30 10:29:00.000
+1.3802623848737106,103.91923769246137,2019-08-01 00:00:00.000,(30/8)10:41 Accident on TPE (towards SLE) at KPE(ECP) Exit.,Accident,2019-08-30 10:41:00.000
+1.3234712966004851,103.927803949489,2019-08-01 00:00:00.000,(30/8)11:41 Accident on New Upper Changi Road (toward City) after Bedok South Avenue 1. Avoid right lane.,Accident,2019-08-30 11:41:00.000
+1.3223510118121047,103.89138737590423,2019-08-01 00:00:00.000,(30/8)12:56 Accident on PIE (towards Tuas) at Paya Lebar Rd Exit.,Accident,2019-08-30 12:56:00.000
+1.2975994577533767,103.84994046897764,2019-08-01 00:00:00.000,(30/8)13:00 Accident on Bras Basah Road (towards Raffles Boulevard) after Prinsep Street. Avoid right lane.,Accident,2019-08-30 13:00:00.000
+1.3293486768803549,103.85290314403517,2019-08-01 00:00:00.000,(30/8)14:28 Accident on PIE (towards Changi Airport) after Thomson Rd with congestion till Lornie Rd. Avoid lane 1.,Accident,2019-08-30 14:28:00.000
+1.3061241133386032,103.82064897414952,2019-08-01 00:00:00.000,(30/8)14:48 Accident on Napier Road (towards Middlesex Road) after Tanglin Road.,Accident,2019-08-30 14:48:00.000
+1.334168431258948,103.86223469825386,2019-08-01 00:00:00.000,(30/8)15:11 Accident on CTE (towards AYE) after PIE(Changi) Exit. Avoid lane 1.,Accident,2019-08-30 15:11:00.000
+1.323622697001474,103.86473010982972,2019-08-01 00:00:00.000,(30/8)16:10 Accident on Serangoon Road (towards Sengkang) after St George`s Rd. Avoid left lane.,Accident,2019-08-30 16:10:00.000
+1.3291564779269098,103.8554343640319,2019-08-01 00:00:00.000,(30/8)16:15 Accident on PIE (towards Changi Airport) after Kim Keat Link.,Accident,2019-08-30 16:15:00.000
+1.2790215755902061,103.85721087466906,2019-08-01 00:00:00.000,(30/8)17:23 Accident on Bayfront Avenue near Bayfront Avenue/Central Boulevard Junction.,Accident,2019-08-30 17:23:00.000
+1.3655511730786898,103.95321157469873,2019-08-01 00:00:00.000,(30/8)17:51 Accident on TPE (towards SLE) after Tampines Ave 7 Exit with congestion till Tampines Ave 7 Exit.,Accident,2019-08-30 17:51:00.000
+1.3898204440951956,103.7610846282052,2019-08-01 00:00:00.000,(30/8)17:55 Accident on KJE (towards BKE) after Woodlands Rd Exit.,Accident,2019-08-30 17:55:00.000
+1.3162070424825716,103.75874481612843,2019-08-01 00:00:00.000,(30/8)18:40 Accident on AYE (towards MCE) before Clementi Ave 6 Exit. Avoid lane 1.,Accident,2019-08-30 18:40:00.000
+1.3339145902803133,103.97802529508486,2019-08-01 00:00:00.000,(30/8)18:43 Accident on ECP (towards Changi Airport) before PIE Exit. Avoid lane 3.,Accident,2019-08-30 18:43:00.000
+1.3339283717836874,103.97804165856333,2019-08-01 00:00:00.000,(30/8)18:43 Accident on ECP (towards Changi Airport) before PIE Exit. Avoid lane 3.,Accident,2019-08-30 18:43:00.000
+1.2729918345380777,103.86372568639115,2019-08-01 00:00:00.000,(30/8)18:58 Accident on MCE (towards ECP) before Marina Blvd Entrance. Avoid lane 4.,Accident,2019-08-30 18:58:00.000
+1.4180781763391859,103.77151662839896,2019-08-01 00:00:00.000,(30/8)19:22 Accident on SLE (towards BKE) at BKE(PIE) Exit.,Accident,2019-08-30 19:22:00.000
+1.331183569303087,103.8620686911725,2019-08-01 00:00:00.000,(30/8)19:25 Accident on CTE (towards SLE) at Upper Serangoon Rd Exit.,Accident,2019-08-30 19:25:00.000
+1.3969660882974029,103.85661229344261,2019-08-01 00:00:00.000,(30/8)20:34 Accident on SLE (towards BKE) after TPE Exit.,Accident,2019-08-30 20:34:00.000
+1.3257780412968567,103.90431045410386,2019-08-01 00:00:00.000,(30/8)21:42 Accident on PIE (towards Changi Airport) after Jalan Eunos with congestion till Kallang Way. Avoid lane 1.,Accident,2019-08-30 21:42:00.000
+1.3253583830318754,103.90230452054925,2019-08-01 00:00:00.000,(30/8)21:42 Accident on PIE (towards Changi Airport) after Paya Lebar. Avoid lane 1.,Accident,2019-08-30 21:42:00.000
+1.3379403386377142,103.86203785917729,2019-08-01 00:00:00.000,(30/8)21:57 Accident on CTE (towards SLE) after Braddell Rd Exit. Avoid lane 3.,Accident,2019-08-30 21:57:00.000
+1.294918317536432,103.7652528771329,2019-08-01 00:00:00.000,(30/8)22:07 Accident on West Coast Highway (towards Tuas) after Clementi Road.,Accident,2019-08-30 22:07:00.000
+1.3284764149544255,103.82419438012512,2019-08-01 00:00:00.000,(30/8)22:07 Accident on PIE (towards Tuas) after Stevens Rd Exit with congestion till Thomson Rd Exit. Avoid lane 1.,Accident,2019-08-30 22:07:00.000
+1.3257149067081035,103.90434315965338,2019-08-01 00:00:00.000,(30/8)22:17 Accident on PIE (towards Tuas) after Jalan Eunos with congestion till Jalan Eunos. Avoid lane 1.,Accident,2019-08-30 22:17:00.000
