@@ -7,6 +7,7 @@ The example projects in this repository show how to integrate [**GeoSpock DB ver
 ### For Data Analysts
 
  * [**Tableau (with Kepler.gl visualizations)**](tableau-kepler/README.md) – A tutorial showing how to run GeoSpock DB queries on a (provided) example dataset using [Tableau](https://www.tableau.com), and visualize the results inside Tableau using the [Kepler.gl extension](https://github.com/keplergl/kepler.gl-tableau).
+ * [**Apache Superset**](superset/README.md) – A tutorial showing how to run GeoSpock DB queries on a (provided) example dataset using [Apache Superset](https://superset.apache.org/), and visualize the results on Superset.
 
 ### For Data Scientists
 

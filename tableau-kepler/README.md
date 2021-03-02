@@ -15,7 +15,9 @@ The [Million Musical Tweets Dataset (MMTD)](http://www.cp.jku.at/datasets/MMTD/)
 
 ## Connecting Tableau to GeoSpock DB
 
-To connect to **GeoSpock DB**, use Tableau’s Presto driver, which you might need to install. Refer to [this Tableau documentation](https://help.tableau.com/current/pro/desktop/en-us/examples_presto.htm) for more details. Start Tableau and under **“Connect”** select **“Presto”**. Fill in the following connection information:
+To connect to **GeoSpock DB**, use Tableau’s Presto driver, which you might need to install. Refer to [this Tableau documentation](https://help.tableau.com/current/pro/desktop/en-us/examples_presto.htm) for more details. Please also see the note below regarding differing functionality in Tableau Desktop and Tableau Server.
+
+Start Tableau Desktop and under **“Connect”** select **“Presto”**. Fill in the following connection information:
 
 | Parameter      | Value                             |
 | -------------- | --------------------------------- |
@@ -28,7 +30,11 @@ To connect to **GeoSpock DB**, use Tableau’s Presto driver, which you might ne
 | Password       | Your GeoSpock DB account password |
 | Require SSL    | Enabled                           |
 
-At this point you should install the [**Kepler.gl extension**](https://github.com/keplergl/kepler.gl-tableau) in Tableau from the **Extension Gallery**, if you haven’t already done so. Refer to the [instructions on the `kepler.gl-tableau` GitHub page](https://github.com/keplergl/kepler.gl-tableau) for more details.
+At this point you should install the [**Kepler.gl extension**](https://github.com/keplergl/kepler.gl-tableau) in Tableau Desktop from the **Extension Gallery**, if you haven’t already done so. Refer to the [instructions on the `kepler.gl-tableau` GitHub page](https://github.com/keplergl/kepler.gl-tableau) for more details.
+
+### A note on Tableau Desktop vs Tableau Server
+
+Note that the configuration **must** be performed in **Tableau Desktop**. While there is also a Presto connector for Tableau Server, **Presto connections cannot be created/edited in Tableau Server**; they must first be created in Tableau Desktop. Workbooks containing Presto connections can subsequently be published from Tableau Desktop to Tableau Server, which can then use the created connection. Workbooks can be edited on Tableau Server as usual, however the Presto connection information cannot.
 
 ## Running a SQL query
 
