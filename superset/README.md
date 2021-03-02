@@ -1,8 +1,8 @@
 # Apache Superset Setup Example
 
-##Prerequisites for running the Example 
+## Prerequisites for running the Example 
 
-Ensure that Superset is installed along with the appropriate Python libraries such as Flask and PyHive, and an admin user and password has been set up, as well as having the server up and running.
+Ensure that Superset is installed along with the appropriate Python libraries such as Flask and PyHive, an admin user and password has been set up, as well as having the server up and running.
 
 
 
@@ -11,7 +11,7 @@ Ensure that Superset is installed along with the appropriate Python libraries su
 ## Adding the Presto Database 
 
 
-Click on **Databases**  under the **Data** tab
+Click on **Databases**  under the **Data** tab.
 
 Click the **+** sign and you will see a form to add a new database.
 
